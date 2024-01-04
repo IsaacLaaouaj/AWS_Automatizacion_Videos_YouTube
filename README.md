@@ -1,2 +1,2 @@
 # Vidme
-Un programa automatizado para subir videos a YouTube.
+ **Proyecto en curso**. Un programa automatizado para subir videos a YouTube.
