@@ -20,7 +20,7 @@ generated_text = pipe (
         do_sample=True,  
         pad_token_id=50256,  # Identificador de token de relleno para GPT-2
     )
-
+print(generated_text)
 
 
 
